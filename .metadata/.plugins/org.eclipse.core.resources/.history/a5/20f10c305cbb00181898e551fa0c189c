@@ -1,0 +1,46 @@
+from flask import Flask
+from flask import request
+from flask import jsonify
+from justdata.ml.stock.fundstock import FundaHelper
+
+app = Flask(__name__)
+
+
+@app.route('/')
+def home_rest():
+    
+    return 'Welcome Home'
+
+
+@app.route('/hello/<username>')
+def hello_flask(username):
+    return 'Hello {}'.format(username)
+
+
+#test get post method
+@app.route('/getkeyval',methods=['GET'])
+def get_kv():
+    
+    #http://localhost:5000/getkeyval?name=james
+    name = request.args.get('name')
+    sex = request.args.get('sex')
+    return 'name:{},sex:{}'.format(name,sex)
+
+
+#get post json data
+# { "name":"John", "age":30} http://localhost:5000/get_pdata
+@app.route('/get_pdata',methods=['POST'])
+def get_post_data():
+    data = request.json
+    #data = request.get_json() 
+    print(type(data))
+    print(data)
+    #return data['name']+str(data['age'])
+    return jsonify(data)
+
+
+@app.route('/get_fund_data',methods=['GET'])
+def get_fundamental_stock_data():
+    ticker = request.args.get('ticker')
+    fh = FundaHelper(ticker)
+    return fh.get_zack_funda()

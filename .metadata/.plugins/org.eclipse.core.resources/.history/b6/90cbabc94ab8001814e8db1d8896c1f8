@@ -1,0 +1,12 @@
+import pandas as pd
+import quandl
+from quandl_api_key import MyQuandlKey 
+
+
+
+#test
+
+
+quandl.ApiConfig.api_key = MyQuandlKey.api_key
+wmt = quandl.get_table('ZACKS/FR',ticker='WMT')
+print(wmt.head(10))

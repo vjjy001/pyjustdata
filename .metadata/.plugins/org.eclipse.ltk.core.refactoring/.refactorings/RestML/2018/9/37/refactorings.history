@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;justdata&apos; to &apos;RestML&apos;" description="Move &apos;justdata&apos; to &apos;RestML&apos;" destination="/RestML" element1="src/justdata" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1536948032549" updateReferences="true"/>
+</session>

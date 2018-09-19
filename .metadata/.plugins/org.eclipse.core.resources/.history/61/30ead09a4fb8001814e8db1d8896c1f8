@@ -1,0 +1,26 @@
+import pandas as pd
+import quandl
+from quandl_api_key import MyQuandlKey 
+import matplotlib.pyplot as plt
+
+
+
+#test
+
+
+quandl.ApiConfig.api_key = MyQuandlKey.api_key
+ticker_pd = quandl.get_table('ZACKS/FR',ticker='AAPL',paginate=True)
+#print(ticker_pd.head(10))
+
+print(ticker_pd.columns)
+ticker_pd = ticker_pd.set_index(['per_end_date'])
+
+print(ticker_pd)
+y_q_pd = ticker_pd.loc[ticker_pd['per_fisc_year'].isin([2017,2018])]
+
+print(y_q_pd[['tot_debt_tot_equity','profit_margin','free_cash_flow','book_val_per_share']])
+
+y_q_pd['tot_debt_tot_equity'].plot()
+y_q_pd['free_cash_flow'].plot()
+y_q_pd['book_val_per_share'].plot()
+plt.show()

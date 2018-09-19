@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.genuitec.eclipse.code.debug.python.codeMixLaunchConfigurationType">
+<stringAttribute key="launchJsonContents" value="none"/>
+<stringAttribute key="launchJsonPath" value="c:\Ddrive\oxyworkspace\FlaskRest1\RestML\.vscode\launch.json"/>
+<stringAttribute key="name" value="Python: File"/>
+</launchConfiguration>

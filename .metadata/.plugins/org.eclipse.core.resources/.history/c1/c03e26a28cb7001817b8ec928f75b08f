@@ -1,0 +1,18 @@
+from flask import Flask
+from flask import request
+
+app = Flask(__name__)
+
+
+@app.route('/')
+def home_rest():
+    method = request.method
+    return 'Welcome Home'+method
+
+
+@app.route('/hello/<username>')
+def hello_flask(username):
+    return 'Hello {}'.format(username)
+
+
+#test get post method

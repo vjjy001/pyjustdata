@@ -1,0 +1,48 @@
+[2018-09-14 08:44:00.842] [sharedprocess] [info] main {"machineId":"5b2e2e5b6c6931e46a52f97ea2237a6c66a1abba7f37fce38a4ae54c8adcae11"}
+[2018-09-14 08:44:01.098] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:44:01.476] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:44:02.024] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:44:02.029] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:44:02.173] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:44:05.665] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:44:19.000] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:44:19.116] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:44:40.875] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-09-14 08:45:08.827] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:45:08.867] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:45:08.868] [sharedprocess] [info] Installing the extension: codemix.python-0.9.0
+[2018-09-14 08:45:09.070] [sharedprocess] [info] Scanned user extensions: 14
+[2018-09-14 08:45:09.410] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:45:10.460] [sharedprocess] [info] Extracted extension to C:\Users\JIAN_J\.vscode\extensions\.codemix.python-0.9.0: codemix.python-0.9.0
+[2018-09-14 08:45:10.470] [sharedprocess] [info] Renamed to C:\Users\JIAN_J\.vscode\extensions\codemix.python-0.9.0
+[2018-09-14 08:45:10.470] [sharedprocess] [info] Installation completed. codemix.python-0.9.0
+[2018-09-14 08:45:10.484] [sharedprocess] [info] Successfully installed the extension: codemix.python-0.9.0
+[2018-09-14 08:45:10.643] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:45:10.940] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:45:11.120] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:45:11.163] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:46:10.744] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:46:10.792] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:46:10.792] [sharedprocess] [info] Installing the extension: ms-python.python-2018.4.0
+[2018-09-14 08:46:10.946] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:46:11.192] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:47:37.166] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:47:37.196] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:47:37.197] [sharedprocess] [info] Installing the extension: formulahendry.code-runner-0.9.3
+[2018-09-14 08:47:37.332] [sharedprocess] [info] Scanned user extensions: 15
+[2018-09-14 08:47:37.529] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:47:41.592] [sharedprocess] [info] Extracted extension to C:\Users\JIAN_J\.vscode\extensions\.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2018-09-14 08:47:41.595] [sharedprocess] [info] Renamed to C:\Users\JIAN_J\.vscode\extensions\formulahendry.code-runner-0.9.3
+[2018-09-14 08:47:41.595] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2018-09-14 08:47:41.601] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner-0.9.3
+[2018-09-14 08:47:41.667] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-14 08:47:41.786] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-14 08:47:41.793] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:47:41.910] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:47:51.336] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-14 08:47:51.339] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-14 08:47:51.471] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:47:54.872] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-14 08:47:56.116] [sharedprocess] [info] Scanned user extensions: 16
+[2018-09-14 08:47:56.192] [sharedprocess] [info] Scanned system extensions: 71
+[2018-09-14 08:48:00.396] [sharedprocess] [error] Failed to install the extension: ms-python.python-2018.4.0 Canceled

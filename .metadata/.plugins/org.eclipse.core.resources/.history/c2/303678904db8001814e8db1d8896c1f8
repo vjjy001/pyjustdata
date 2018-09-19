@@ -1,0 +1,14 @@
+import pandas as pd
+import quandl
+from quandl_api_key import MyQuandlKey 
+
+
+
+#test
+
+
+quandl.ApiConfig.api_key = MyQuandlKey.api_key
+ticker_pd = quandl.get_table('ZACKS/FR',ticker='AAPL',paginate=True)
+print(ticker_pd.head(10))
+
+print(ticker_pd.columns)

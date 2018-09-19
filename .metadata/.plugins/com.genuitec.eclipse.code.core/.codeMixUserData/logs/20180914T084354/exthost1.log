@@ -1,0 +1,40 @@
+[2018-09-14 08:44:06.096] [exthost1] [info] extension host started
+[2018-09-14 08:44:06.180] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:06.180] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-09-14 08:44:07.421] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:07.421] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\git\out\main
+[2018-09-14 08:44:10.392] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:10.392] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-09-14 08:44:10.561] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:10.561] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-09-14 08:44:10.798] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:10.799] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\JIAN_J\.vscode\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2018-09-14 08:44:11.125] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:11.125] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\JIAN_J\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2018-09-14 08:44:11.925] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:44:11.925] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\JIAN_J\.vscode\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-09-14 08:44:11.938] [exthost1] [info] eager extensions activated
+[2018-09-14 08:44:11.941] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-14 08:44:11.941] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-09-14 08:44:12.038] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-14 08:44:12.038] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\json-language-features\client\out\jsonMain
+[2018-09-14 08:47:55.481] [exthost1] [info] extension host started
+[2018-09-14 08:47:55.616] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:55.616] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\emmet\out\extension
+[2018-09-14 08:47:56.246] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:56.246] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\git\out\main
+[2018-09-14 08:47:57.451] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:57.451] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\merge-conflict\out\extension
+[2018-09-14 08:47:57.505] [exthost1] [info] ExtensionService#_doActivateExtension vscode.search-rg {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:57.505] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\search-rg\out\extension
+[2018-09-14 08:47:57.530] [exthost1] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:57.530] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\JIAN_J\.vscode\extensions\christian-kohler.path-intellisense-1.4.2\out\src\extension
+[2018-09-14 08:47:57.593] [exthost1] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:57.593] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\JIAN_J\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10\client\out\extension
+[2018-09-14 08:47:57.810] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag {"startup":true,"activationEvent":"*"}
+[2018-09-14 08:47:57.810] [exthost1] [info] ExtensionService#loadCommonJSModule C:\Users\JIAN_J\.vscode\extensions\formulahendry.auto-close-tag-0.5.6\out\src\extension
+[2018-09-14 08:47:57.818] [exthost1] [info] eager extensions activated
+[2018-09-14 08:47:57.824] [exthost1] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-14 08:47:57.824] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\configuration-editing\out\extension
+[2018-09-14 08:47:57.881] [exthost1] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"activationEvent":"onLanguage:jsonc"}
+[2018-09-14 08:47:57.881] [exthost1] [info] ExtensionService#loadCommonJSModule c:\Users\JIAN_J\.codemix\engine\resources\app\extensions\json-language-features\client\out\jsonMain
